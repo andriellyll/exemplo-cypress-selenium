@@ -1,0 +1,17 @@
+{
+  "name": "exemplo-cypress",
+  "version": "1.0.0",
+  "description": "cypress project example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "cypress": "^14.2.0",
+    "mocha": "^11.1.0",
+    "selenium-webdriver": "^4.29.0"
+  }
+}
